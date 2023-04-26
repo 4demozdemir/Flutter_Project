@@ -1,4 +1,4 @@
-# firstproject
+# Flutter exercise
 
 A new Flutter project.
 
